@@ -1,5 +1,7 @@
 # Formularios
 
+En este proyecto se trabaja aproximación por template y aproximación por data en Angular v6
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.3.
 
 ## Development server
