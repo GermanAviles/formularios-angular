@@ -1,0 +1,14 @@
+.error{
+    color: rgb(230, 44, 44) ;
+}
+
+.add{
+    height: 38px;
+}
+
+input[type='text']{
+    margin-bottom: 10px;
+}
+span{
+    margin-right: 5px;
+}

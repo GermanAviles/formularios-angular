@@ -1,0 +1,14 @@
+/* Error a los campos de texto*/
+.ng-invalid.ng-touched:not(form){
+    border: 1px solid #c93030;
+}
+/*Texto alertas*/
+label.error{
+    color: #c93030;
+}
+div.invisible{
+    display: none;
+}
+select{
+    width: 100%;
+}

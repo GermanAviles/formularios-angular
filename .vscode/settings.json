@@ -1,0 +1,7 @@
+{
+    "relativePath.ignore": [
+        "**/*.dll",
+        "**/obj/**",
+        "**/objd/**"
+    ]
+}
